@@ -1,6 +1,6 @@
 # Vonon IOT Lamp
 
-### Introdcutions
+### Introdcution:
 
 ### Parts List
 
