@@ -1,14 +1,14 @@
 # Vonon IOT Lamp
 
-### Introdcution:
+### Introduction:
 
-### Parts List
+### Parts List:
 
-### Assembly Guide
+### Assembly Guide:
 (add pictures and descriptions)
 
-### Setup (programming guide)
+### Setup (programming guide):
 
-### Troubleshooting
+### Troubleshooting:
 
 Link to the community thread.
