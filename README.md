@@ -70,6 +70,15 @@ Follow the steps to program the internet button and turn it ON!
 
 ### Setup (programming guide):
 
+Setting up the software side if things isn't too hard. You'll first need to get your Photon up and running, for which the "getting started" guide in the Particle documentation is great. Head over, set it up, and come back once you're Photon's breathing cyan and controllable over the web (changing the D7 LED with the Tinker phone application is a good indication). If you're facing issues, don't hesitate to ask the community, since they're extremely helpful.
+Once you're Photon works and has access to the web, head over to the web IDE. The current demo does not yet take advantage of web connectivity, but this will be added soon. For now, go ahead and use the library system to add the "internetbutton" library to a new app you've created. Then, copy over the code from the main.ino file in this github repository and paste it over the contents of the new app you've made. Flash that to your device, and you should be good to go.
+
+Pressing the buttons will give you different modes:
+Button 1: "swirl mode", will allow you to tilt/rotate the lamp through the colorcircle, also changing the intensity.
+Button 2: Fade trough the color circle. Pressing this button again will double the speed.
+Button 3: Sunrise effect. Gently increasing brightness of orange to wake you up. pressing again will double the speed.
+Button 4: Off. For those times you'd rather not have light.
+
 ### Troubleshooting:
 
 Link to the community thread.
