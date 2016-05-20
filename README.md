@@ -1,4 +1,4 @@
-# Voron IOT Lamp
+# VoronIoT Lamp
 
 ### Introduction:
 
@@ -7,7 +7,7 @@ This is a simple enclosure that turns your Particle Internet Button into a beaut
 ![Step9](https://github.com/spark/vorono-iot-lamp/blob/master/images/iso-on.jpg)
 
 ### You will need:
- - The VoronoiOT kit
+ - The VoronoIoT Kit
  - Particle internet button with a Photon
  - Glue: hot glue/scotch tape
  - Hobby knife
