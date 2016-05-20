@@ -1,4 +1,4 @@
-# VoronIoT Lamp
+# VoronoIoT Lamp
 
 ### Introduction:
 
