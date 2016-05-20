@@ -87,4 +87,4 @@ Button 4: Off. For those times you'd rather not have light.
 
 ### Troubleshooting:
 
-Link to the community thread.
+http://community.particle.io/t/voronoiot-lamp-maker-faire-2016/23047
