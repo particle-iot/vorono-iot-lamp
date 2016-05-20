@@ -31,6 +31,7 @@ Peel off the protective paper. You'll need some patience. Don't try this on an e
 #### Step 3:
 
 You can use hot glue, or scotch tape to put together the lamp. Try not to use super glue since it will stain the surface very easily.
+Another option would be to lightly apply [acrylic solvent cement](http://www.amazon.com/dp/B00466V8F0) to the inside corners with a cotton swab.  The solvent will slightly seep into the cracks of the enclosure and weld them together without marring the outside.
 
 ![Step3](https://github.com/spark/vorono-iot-lamp/blob/master/images/step3.jpg)
 
@@ -42,7 +43,7 @@ Place the Internet button on the bottom plate. You can fix it to the base using 
 
 #### Step 5:
 
-In order to defuse the light, you can use a standard printing paper (letter size). Simply fold it into half and cut 0.25" from the edge to make a nice fit. You'll need to glue it place. We have also used tracing paper and acetate paper successfully.
+In order to diffuse the light, you can use a standard printing paper (letter size). Simply fold it into half and cut 0.25" from the edge to make a nice fit. You'll need to glue it place. We have also used tracing paper and acetate paper successfully.
 
 ![Step5](https://github.com/spark/vorono-iot-lamp/blob/master/images/step5.jpg)
 
