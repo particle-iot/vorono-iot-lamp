@@ -4,7 +4,7 @@
 
 This is a simple enclosure that turns your Particle Internet Button into a beautiful, reactive desk lamp. The enclosure is laser cut out of a black acyrlic sheet and requires some assembly.
 
-![Step9](https://github.com/spark/vorono-iot-lamp/blob/master/images/iso-on.jpg)
+![Step9](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/iso-on.jpg)
 
 ### You will need:
  - The VoronoIoT Kit
@@ -20,53 +20,53 @@ This is a simple enclosure that turns your Particle Internet Button into a beaut
 
 The parts come with a protective layer of paper.
 
-![Step1](https://github.com/spark/vorono-iot-lamp/blob/master/images/top-01.JPG)
+![Step1](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/top-01.JPG)
 
 #### Step 2:
 
 Peel off the protective paper. You'll need some patience. Don't try this on an empty stomach.
 
-![Step2](https://github.com/spark/vorono-iot-lamp/blob/master/images/peeled.JPG)
+![Step2](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/peeled.JPG)
 
 #### Step 3:
 
 You can use hot glue, or scotch tape to put together the lamp. Try not to use super glue since it will stain the surface very easily.
 Another option would be to lightly apply [acrylic solvent cement](http://www.amazon.com/dp/B00466V8F0) to the inside corners with a cotton swab.  The solvent will slightly seep into the cracks of the enclosure and weld them together without marring the outside.
 
-![Step3](https://github.com/spark/vorono-iot-lamp/blob/master/images/step3.jpg)
+![Step3](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/step3.jpg)
 
 #### Step 4:
 
 Place the Internet button on the bottom plate. You can fix it to the base using a M3 screw and nut or simply hot glue it.
 
-![Step4](https://github.com/spark/vorono-iot-lamp/blob/master/images/step4.jpg)
+![Step4](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/step4.jpg)
 
 #### Step 5:
 
 In order to diffuse the light, you can use a standard printing paper (letter size). Simply fold it into half and cut 0.25" from the edge to make a nice fit. You'll need to glue it place. We have also used tracing paper and acetate paper successfully.
 
-![Step5](https://github.com/spark/vorono-iot-lamp/blob/master/images/step5.jpg)
+![Step5](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/step5.jpg)
 
 #### Step 6:
-![Step6](https://github.com/spark/vorono-iot-lamp/blob/master/images/step6.jpg)
+![Step6](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/step6.jpg)
 
 #### Step 7:
 
 Pass the USB cable through the opening as shown.
 
-![Step7](https://github.com/spark/vorono-iot-lamp/blob/master/images/top-open.jpg)
+![Step7](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/top-open.jpg)
 
 #### Step 8:
 
 Place the top plate on (don't glue it in!). Leave the inside open - it will project some cool patterns on the ceiling when the lamp turns on.
 
-![Step8](https://github.com/spark/vorono-iot-lamp/blob/master/images/step7.jpg)
+![Step8](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/step7.jpg)
 
 #### Step 9:
 
 Follow the steps to program the internet button and turn it ON!
 
-![Step9](https://github.com/spark/vorono-iot-lamp/blob/master/images/iso-on.jpg)
+![Step9](https://github.com/particle-iot/vorono-iot-lamp/blob/master/images/iso-on.jpg)
 
 
 ### Setup (programming guide):
